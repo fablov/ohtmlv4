@@ -1,3 +1,11 @@
+# ADDED:
+
+- bootstrap 4.4.1 sccc
+- bootstrap js
+- popper.js
+
+# ORIGINAL DESCRIPTION:
+
 <h1><strong>OptimizedHTML 4:</strong> <br>Startup HTML template based on Gulp & Bootstrap 4</h1>
 
 <p>
